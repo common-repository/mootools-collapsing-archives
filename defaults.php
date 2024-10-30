@@ -1,0 +1,28 @@
+<?php
+$defaults=array(
+  'title' => __('Archives', 'moo-collapsing-arc'),
+  'noTitle' => '',
+  'inExcludeCat' => 'exclude',
+  'inExcludeCats' => '',
+  'inExcludeYear' => 'exclude',
+  'inExcludeYears' => '',
+  'showPages' => false, 
+  'sort' => 'DESC',
+  'linkToArch' => true,
+  'showYearCount' => true,
+  'expandCurrentYear' => true,
+  'expandMonths' => true,
+  'expandYears' => true,
+  'expandCurrentMonth' => true,
+  'showMonthCount' => true,
+  'showPostTitle' => true,
+  'expand' => '0',
+  'showPostDate' => false,
+  'useCookies' => true,
+  'debug' => '0',
+  'postDateFormat' => 'm/d',
+   'postDateAppend' => 'after',
+  'animate' => 0,
+  'postTitleLength' => '',
+   'MTversion' => '12' );
+ ?>

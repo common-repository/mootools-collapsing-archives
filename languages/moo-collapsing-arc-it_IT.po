@@ -1,0 +1,206 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Moo Collapsing Archives 0.5.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-29 00:17+0100\n"
+"PO-Revision-Date: 2011-06-21 13:10+0100\n"
+"Last-Translator: &#604;dolab <boss@3dolab.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: collapscat.php:77
+#: collapscat.php:78
+msgid "Collapsing Archives"
+msgstr "Archivi Espandibili"
+
+#: collapscat.php:77
+#: collapscat.php:78
+msgid "Moo Collapsing Archives"
+msgstr "Moo Archivi Espandibili"
+
+msgid "Moo Collapsing Archives Options"
+msgstr "Opzioni Moo Archivi Espandibili"
+
+#: defaults.php:3
+msgid "Archives"
+msgstr "Archivi"
+
+#: collapscatUI.php:58
+msgid "Collapsing Archives Options"
+msgstr "Opzioni delle Archivi Espandibili"
+
+#: collapscatUI.php:61
+msgid "Id of the sidebar where collapsing archives appears:"
+msgstr "ID della barra laterale dove compaiono gli archivi:"
+
+msgid "Put javascript file in footer (speeds page load, but is not compatible with all themes"
+msgstr "Carica il javascript nel footer (velocizza il caricamento delle pagine, ma non &egrave; compatibile con tutti i temi"
+
+#: collapscatUI.php:71
+msgid "Select style:"
+msgstr "Scegli stile:"
+
+#: collapscatUI.php:95
+msgid "Preview"
+msgstr "Anteprima"
+
+#: collapscatUI.php:100
+msgid "You may also customize your style below if you wish"
+msgstr "&Egrave; anche possibile personalizzare a piacimento lo stile seguente"
+
+#: collapscatUI.php:101
+msgid "restore current style"
+msgstr "ripristina lo stile corrente"
+
+#: collapscatUI.php:142
+msgid "Update options"
+msgstr "Aggiorna Opzioni"
+
+#: collapscatlist.php:233
+#: collapscatlist.php:280
+#: collapscatlist.php:578
+#, php-format
+msgid "View all posts filed under %s"
+msgstr "Mostra tutti gli articoli dell'archivio %s"
+
+msgid "click to collapse"
+msgstr "comprimi"
+
+msgid "click to expand"
+msgstr "espandi"
+
+msgid "Animate collapsing and expanding"
+msgstr "Effetto di animazione compressione/espansione"
+
+msgid "(cookies required: see below)"
+msgstr "(sono richiesti i cookies: vedi sotto)"
+
+msgid "Ascending"
+msgstr "Crescente"
+
+msgid "Descending"
+msgstr "Decrescente"
+
+msgid "Expanding and collapse characters:"
+msgstr "Simboli per compressione/espansione"
+
+msgid "expand:"
+msgstr "espandi:"
+
+msgid "collapse:"
+msgstr "comprimi:"
+
+msgid "Include"
+msgstr "Includi"
+
+msgid "Exclude"
+msgstr "Escludi"
+
+msgid "Truncate Post Title to"
+msgstr "Accorcia il titolo a"
+
+msgid "characters"
+msgstr "caratteri"
+
+msgid "Remember expanding and collapsing for each visitor (using cookies)"
+msgstr "Ricorda le voci espanse e compresse (usando i cookie)"
+
+msgid "images:"
+msgstr "immagini:"
+
+msgid "html:"
+msgstr "html:"
+
+msgid "custom"
+msgstr "personalizzato"
+
+msgid "Title:"
+msgstr "Titolo:"
+
+msgid "Style can be set from the %s"
+msgstr "Lo stile viene impostato dalla %s"
+
+msgid "Style can be set from the"
+msgstr "Lo stile pu&ograve; essere impostato nella"
+
+msgid "options page"
+msgstr "pagina opzioni"
+
+msgid "Show Post Count"
+msgstr "Mostra il conteggio degli articoli"
+
+msgid "Show Pages as well as posts"
+msgstr "Mostra sia le pagine che gli articoli"
+
+msgid "Show Post Date"
+msgstr "Mostra la data degli articoli"
+
+msgid "Show Post Title"
+msgstr "Mostra il titolo degli articoli"
+
+msgid "Before post title"
+msgstr "Prima del titolo"
+
+msgid "After post title"
+msgstr "Dopo il titolo"
+
+msgid "as"
+msgstr "come"
+
+msgid "Display archives in"
+msgstr "Mostra gli archivi in"
+
+msgid "Chronological order"
+msgstr "Ordine cronologico"
+
+msgid "Reverse Chronological order"
+msgstr "Ordine cronologico inverso"
+
+msgid "these years (separated by commas):"
+msgstr "gli anni seguenti (separati da virgola)"
+
+msgid "these categories (input slug or ID separated by commas):"
+msgstr "le seguenti categorie (inserisci slug o ID separati da virgola)"
+
+msgid "Clicking on year/month:"
+msgstr "Il clic sul mese/anno:"
+
+msgid "Links to archive"
+msgstr "Manda all'archivio"
+
+msgid "Expands list"
+msgstr "Espande la lista"
+
+msgid "Leave Current Year Expanded by Default"
+msgstr "Espandi automaticamente l'anno in corso"
+
+msgid "Show Post Count in Year Links"
+msgstr "Mostra il conteggio degli articoli nel link dell'anno"
+
+msgid "Show Month Link"
+msgstr "Mostra il link al mese"
+
+msgid "Show Post Count in Month Links"
+msgstr "Mostra il conteggio degli articoli nel link del mese"
+
+msgid "Month Links should expand to show Posts"
+msgstr "I link del mese si espandono e mostrano gli articoli"
+
+msgid "Leave Current Month Expanded by Default"
+msgstr "Espandi automaticamente il mese in corso"
+
+msgid "Display Options:"
+msgstr "Opzioni di visualizzazione:"
+
